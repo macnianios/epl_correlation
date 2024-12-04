@@ -3,7 +3,7 @@
 Explore the correlation between various statistics and points gained in the 2023-24 English Premier League (EPL) season.
 
 **Objective**
-
+Recently, I came across a tweet highlighting the correlation between winning percentage and three-point (3P) shooting percentage in the last NBA season. The teams with the highest 3P percentages also had the highest win percentages, and no team with an above-league-average 3P percentage had a win percentage below 50%. This observation led me to wonder: is there a similar correlation in football, particularly in the Premier League?
 This project analyzes the impact of key goal- and shooting-related statistics on points earned during the 2023-24 EPL season. The key metrics considered include:
 
 Goals Scored
